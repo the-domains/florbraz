@@ -1,0 +1,23 @@
+name: florbraz
+favicon: null
+layout_spectrum: 0.03596186824142933
+typography_spectrum: 0.9369113687425852
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3234430402517319
+  lightness: 0.12519245757721364
+  saturation: 0.6549152373336256
+  rhythmicContrast: 0.09700538776814938
+purpose: []
