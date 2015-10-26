@@ -2,12 +2,13 @@ name: florbraz
 favicon: null
 layout_spectrum: 0.03596186824142933
 typography_spectrum: 0.9369113687425852
+title: "florbraz's grid"
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-10430328-6
   facebook: null
   twitter: null
 opengraph:
